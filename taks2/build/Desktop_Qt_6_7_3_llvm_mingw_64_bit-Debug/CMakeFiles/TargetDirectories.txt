@@ -1,0 +1,7 @@
+H:/qtdevelops/taks1qt/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/taks1qt.dir
+H:/qtdevelops/taks1qt/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/edit_cache.dir
+H:/qtdevelops/taks1qt/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+H:/qtdevelops/taks1qt/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/list_install_components.dir
+H:/qtdevelops/taks1qt/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install.dir
+H:/qtdevelops/taks1qt/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/local.dir
+H:/qtdevelops/taks1qt/build/Desktop_Qt_6_7_3_llvm_mingw_64_bit-Debug/CMakeFiles/install/strip.dir
